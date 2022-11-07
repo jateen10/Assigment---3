@@ -5,3 +5,5 @@ Fill out [about](about.html) page with 3 sections similar to index for <br>
 ○ Std XII school name and address <br>
 ○ Diploma/Degree institution name and address <br>
 ● Add “rating” select list to the form <br>
+
+### Exercise 2
